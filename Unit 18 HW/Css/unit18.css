@@ -1,1 +1,28 @@
+body{
+    background-color: black;
+    
+}
 
+
+
+.header{
+    position: relative;
+    background-color: black;
+    height: 500px;
+    padding-block-end: 30px;
+    color: white;
+}
+
+p{
+    align-content: center;
+}
+.skillsTable{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: black;
+}
+.head{
+    font-size: 30pt;
+    text-align: center;
+    color: white;
+}
